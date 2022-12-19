@@ -1,0 +1,38 @@
+.container{
+ 	width: 90vw;
+ 	height: 90vh;
+
+ 	
+ }
+
+
+ .calculator{
+ 	width: 30vw;
+ 	height: 80vh;
+   
+    margin: 5vh 0vw 0vh 5vw;
+    text-align: center;
+    border: 2px dashed white;
+     border-radius: 10px;
+ }
+ .calculator input{
+    width: 16vw;
+    height: 9vh;
+    font: 700 20px fantasy;
+    color: black;
+    background-color: white;
+    border: 2px double gray;
+    margin: 3vh 0vw 3vh 1vw;
+    padding-left: 1vw;
+    border-radius: 10px;
+
+ }
+ .calculator button{
+    width: 4vw;
+    height: 10vh;
+     font: 700 20px fantasy;
+     margin: 2vh 0vw 0vh 1vw;
+     border: 1px double gray;
+     background-color: white;
+     border-radius: 10px;
+ }
